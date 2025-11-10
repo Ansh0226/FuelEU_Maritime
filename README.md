@@ -258,7 +258,7 @@ FuelEU-Maritime/
 
 **Ansh Rathore**  
 🎓 MCA, MNNIT Allahabd , Prayagraj  
-🌐 [GitHub](https://github.com/Ansh0226/Fuel-Eu_Maritime)  
+🌐 [GitHub](https://github.com/Ansh0226/FuelEU_Maritime)  
 📧 Email: anshrathore2604@gmail.com
 
 ---
